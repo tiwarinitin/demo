@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(86, 180, 180);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.item {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    height: 10%;
+    border-radius: 10px;
+    background-color: rgb(235, 179, 199); 
+    padding: 10px;
+}
+
+.item-date p {
+    margin: 0%;
+    font-weight: bolder;
+    font-size: large    ;
+}
+
+.item-date {
+    height: 100%;
+    color: floralwhite;
+    width: 10vw;
+    margin-left: 10px;
+    text-align: center;
+    background-color: rgb(58, 63, 63);
+    border-radius: 15px;
+}
+
+.item-title {
+    color:rgb(122, 100, 132);
+    height: 100%;
+    font-size: 50px;
+    width: 60vw;
+    margin-left: 5%;
+    border-radius: 25px;
+}
+
+.item-price {
+    font-size: 40px;
+    height: 50%;
+    width: 10vw;
+    margin-left: 20vw;
+    text-align: center;
+    border-radius: 25px;
+    background-color: rgb(163, 163, 232);
+    
+}
+
